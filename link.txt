@@ -1,0 +1,55 @@
+Assignment : https://pastebin.ubuntu.com/p/bp7PgXkdbR/
+Constructor : https://pastebin.ubuntu.com/p/MWM3fBjfcK/
+Method : https://pastebin.ubuntu.com/p/bdWJftMm6S/
+Marks : https://pastebin.ubuntu.com/p/w2pjxygCzr/
+costumr caare: https://pastebin.ubuntu.com/p/Sh2Bx5FSKJ/
+Loop : https://pastebin.ubuntu.com/p/cKqMks9GKg/
+
+c 
+c++
+java 
+    each lang 10 que (MCQ )
+    10  MCQ 's 
+    if the use score more the  > = 7  then he is eligbl of C++ and > 7 the java 
+    
+    if less the 7 < the he ha to re take the test 
+count =0; 
+size of byte in java 
+1) 1 byte 
+2) 2
+3)3 
+4)4 
+int a=1;
+if(ch==1)
+{
+    count ++ 
+}
+    Assignment 
+1) Revise 
+2) complet the java  vedios session  ,As mush as Pos
+3) 
+    
+c 
+c++
+java 
+    each lang 10 que (MCQ )
+    10  MCQ 's 
+    if the use score more the  > = 7  then he is eligbl of C++ and > 7 the java 
+    
+    if less the 7 < the he ha to re take the test 
+count =0; 
+size of byte in java 
+1) 1 byte 
+2) 2
+3)3 
+4)4 
+int a=1;
+if(ch==1)
+{
+    count ++ 
+}
+
+https://pastebin.ubuntu.com/p/V6kQ8f6dCK/
+https://pastebin.ubuntu.com/p/BWCg2WBgYW/-Inheritance
+https://pastebin.ubuntu.com/p/ygP4rvcvqB/-Project
+https://pastebin.ubuntu.com/p/R9bsFsZzFT/
